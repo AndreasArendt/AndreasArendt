@@ -4,14 +4,14 @@ I am a software engineer specializing in unmanned and autonomous flight, and I a
 
 ---
 
-### :clipboard: Latest project:
+### 🏗️: Latest project:
 [![<Repository Name>](https://github-readme-stats.vercel.app/api/pin/?username=AndreasArendt&repo=OpenRTK&theme=default) ](https://github.com/AndreasArendt/OpenRTK)
 
 
 
 ---
 
-### :building_construction: Languages and Tools:
+### 🛠️: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
