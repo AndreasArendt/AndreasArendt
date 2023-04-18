@@ -1,5 +1,6 @@
 ### 👨‍💻 About Me: 
-As a software engineer specializing in unmanned and autonomous flight, I work on a variety of projects ranging from drone design and operation to software development that augments their capabilities. My fascination with drones has inspired me to explore their potential thoroughly, and I am particularly passionate about using simulations and datasets to drive meaningful change and innovation in the field of unmanned and autonomous flight. ✈️
+Hello, and welcome to my Github! Let me introduce myself:  
+I am a software engineer specializing in unmanned and autonomous flight, and I am working on a variety of projects ranging from drone design and operation to software development that augments their capabilities. My fascination with drones has inspired me to explore their potential thoroughly, and I am particularly passionate about using simulations and datasets to drive meaningful change and innovation in the field of unmanned and autonomous flight. ✈️
 
 ---
 
@@ -10,7 +11,7 @@ As a software engineer specializing in unmanned and autonomous flight, I work on
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :building_construction: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
